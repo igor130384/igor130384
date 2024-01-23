@@ -1,7 +1,9 @@
 ### Hi my name is Igor! 👋
 Connect with me:
 https://t.me/GIV_84
-I'm looking for a job in the python-developer specialty and here is my resume https://cv.hexlet.io/ru/resumes/2835
+
+I'm looking for a job in the python-developer specialty and here is my resume 
+https://cv.hexlet.io/ru/resumes/2835
 
 <!--
 **igor130384/igor130384** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
