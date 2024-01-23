@@ -1,4 +1,6 @@
 ### Hi my name is Igor! 👋
+Connect with me:
+https://t.me/GIV_84
 
 <!--
 **igor130384/igor130384** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
