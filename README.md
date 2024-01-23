@@ -7,6 +7,10 @@ Currently I work as a leading engineer
 for automated information and measurement systems.
 In the future, I plan to develop my skills acquired during training at Hexlet and find a job as a
 python developer
+## Certificates
+In the cerificates folder you will find certificates of completion of the Python developer
+course in Russian and English
+
 Connect with me: [Telegram](https://t.me/GIV_84) [Mail](https://GIV_84@mail.ru)
 
 
