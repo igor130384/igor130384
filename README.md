@@ -1,9 +1,17 @@
-### Hi my name is Igor! 👋
-Connect with me:
-https://t.me/GIV_84
+### <h1 align="center">Hi my name is Igor! 👋 </h1>
 
-I'm looking for a job in the python-developer specialty and here is my resume 
-https://cv.hexlet.io/ru/resumes/2835
+## About me
+I am a beginner python developer. I graduated from the Ulyanovsk State Technical University,
+Radio Engineering Faculty, with a degree in radio-electronic design and technology engineer in 2006.
+Currently I work as a leading engineer
+for automated information and measurement systems.
+In the future, I plan to develop my skills acquired during training at Hexlet and find a job as a
+python developer
+Connect with me: [Telegram](https://t.me/GIV_84) [Mail](https://GIV_84@mail.ru)
+
+
+I'm looking for a job in the python-developer specialty and here is my resume [CV](https://cv.hexlet.io/ru/resumes/2835)
+
 
 <!--
 **igor130384/igor130384** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
